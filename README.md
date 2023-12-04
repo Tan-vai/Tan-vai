@@ -16,7 +16,7 @@ ___🦋(ABU TANIM)🦋___
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️ABU TANIM✏️__)
 <h1 align="center">Hi 👋, I'm ABU TANIM</h1>
-<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 ABU TANIM </h3>
+<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 ABU TANIM ABU TANIM </h3>
 ___🦋(ABU TANIM)🦋___
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ___🦋(ABU TANIM)🦋___
