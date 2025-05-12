@@ -22,7 +22,7 @@ ___🦋(MR-TAN)🦋___
 ___🦋(MR-TAN)🦋___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TAN-VAI-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="TAN-VAI-pmishra" /> </p>
 
-- 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [https://facebook.com/MrTan.0fficial](https://t.me/MrTan_official)
+- 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [https://www.facebook.com/MrT4N.Official](https://t.me/MrTan_official)
 ___🦋(MR-TAN)🦋___
 - ⚡ Fun fact **I am funny😅**
 
