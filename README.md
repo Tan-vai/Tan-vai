@@ -20,7 +20,7 @@ ___🦋(MR-TAN)🦋___
 ___🦋(MR-TAN)🦋___
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ___🦋(MR-TAN)🦋___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TAN-VAI-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="TAN-VAI-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" /> </p>
 
 - 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [https://www.facebook.com/MrT4N.Official](https://t.me/MrTan_official)
 ___🦋(MR-TAN)🦋___
