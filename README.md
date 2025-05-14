@@ -36,7 +36,7 @@ ___🦋(MR-TAN)🦋___
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tan-vai&show_icons=true&theme=radical" alt="Tan-vai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-vai&" alt="Tan-vai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-vai" alt="Tan-vai" /></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
