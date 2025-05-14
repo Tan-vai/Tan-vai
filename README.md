@@ -6,24 +6,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-Tan+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+MR-TAN+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-Tan+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr-Tan+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
-
-(__🐝MR-TAN🐝__)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 (__🐝MR-TAN🐝__)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-(__✏️MR-TAN✏️__)
-<h1 align="center">Hi 👋, I'm MR-TAN</h1>
+<h1 align="center">Hi 👋, I'm MR TAN</h1>
 <h3 align="center">A passionate Shell Executor from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 </h3>
 ___🦋(MR-TAN)🦋___
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ___🦋(MR-TAN)🦋___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" /> </p>
 
-- 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [https://www.facebook.com/MrT4N.Official](https://t.me/MrTan_official)
-___🦋(MR-TAN)🦋___
+- 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [https://www.facebook.com/MrT4N.Official][https://t.me/MrTan_official]
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
