@@ -118,8 +118,8 @@
   </tr>
   <tr>
     <td>Huawei y6 prime 2019</td>
-    <td>Android 9, </td>
-    <td></td>
+    <td>Android 9 </td>
+    <td>MTK MT6761</td>
   </tr>
 </table>
 <!-- Statistics -->
