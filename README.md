@@ -17,7 +17,6 @@ ___🦋(MR-TAN)🦋___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" /> </p>
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
-    <a href="#"><img src="https://img.shields.io/github/stars/Tan-vai?style=social"></a>
 
 - 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [https://www.facebook.com/MrT4N.Official][https://t.me/MrTan_official]
 - ⚡ Fun fact **I am funny😅**
