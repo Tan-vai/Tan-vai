@@ -18,7 +18,7 @@ ___🦋(MR-TAN)🦋___
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
 
-- 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [https://www.facebook.com/MrT4N.Official][https://t.me/MrTan_official]
+- 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [https://www.facebook.com/MrT4N.Official] [https://t.me/MrTan_official]
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
