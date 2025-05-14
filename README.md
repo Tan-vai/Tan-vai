@@ -30,7 +30,7 @@
 ### 🔥 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-T4N&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tan-vai&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
