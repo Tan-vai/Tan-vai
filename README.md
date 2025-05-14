@@ -32,9 +32,9 @@ ___🦋(MR-TAN)🦋___
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/mrtan_official"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mr Tan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tan-vai&show_icons=true&locale=en&layout=compact" alt="Tan-vai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-vai&layout=compact&theme=radical" alt="Tan-vai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tan-vai&show_icons=true&locale=en" alt="Tan-vai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tan-vai&show_icons=true&theme=radical" alt="Tan-vai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-vai&" alt="Tan-vai" /></p>
 </p>
