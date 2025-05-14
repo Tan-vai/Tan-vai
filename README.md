@@ -81,8 +81,6 @@ ___🦋(MR-TAN)🦋___
     </a>
 </div>
 <!-- End Footer -->
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
 
