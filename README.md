@@ -1,69 +1,54 @@
-<h1 align="center">Hi 👋, I'm MR-TAN</h1>
-<h3 align="center">CEO & Founder of Death Cyber Army | Python Programmer | Ethical Hacker</h3>
+<h2>Heya, it's <i>Mr. Tan 👾</i> a.k.a <b>Tan-vai</b></h2>
+Cyber security enthusiast, Python lover 🐍, and founder of <b>Death Cyber Army</b> 💀
+<br><br>
 
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/github/followers/Tan-vai?style=social" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Tan-vai?style=social" alt="Stars">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Tan-vai&title=Profile+Views&count_bg=%230073EB" alt="Views">
+</p>
+
+<!-- Terminal UI -->
+<pre>
+tan@darknet:~# whoami
+┌─[Mr. Tan]
+├─[Location] 🇧🇩 Chattagram, Bangladesh
+├─[Team] Death Cyber Army
+└─[Role] Lead Developer & Penetration Tester
+</pre>
+
+<hr />
+
+<!-- Social Links -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1CF72B&center=true&vCenter=true&multiline=true&width=800&height=70&lines=MR-TAN+from+Bangladesh;Python+Lover+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%92;Coder+by+Passion+%F0%9F%92%A1;Death+Cyber+Army+%F0%9F%92%AA" alt="Typing SVG" />
+  <a href="https://facebook.com/Mr-T4N" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://t.me/MrTan_official" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:mrtanvai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
+<!-- About Me Section -->
+### `~# cat AboutMe`
 
-### 📱 Connect with me:
-
-- 💬 Facebook: [facebook.com/MrT4N.Official](https://www.facebook.com/MrT4N.Official)
-- 🔥 Telegram: [t.me/MrTan_official](https://t.me/MrTan_official)
-
----
-
-### 🧰 Languages and Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</p>
+- 💻 Programming language of choice: **Python**
+- 🛠 Tools I use: Linux, Termux, Nmap, Metasploit
+- ⚔️ Skills: Web Hacking, Automation Bots, Telegram API, OSINT
+- 🔒 Passion: Hacking for justice & ethical use of tech
+- 🚀 Dream: Build one of the top cyber teams in the world
 
 ---
 
-### 🔥 GitHub Stats:
+<!-- Stats Section -->
+### `~# ./sysinfo`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tan-vai&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tan-vai&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
----
-
-### 🎬 What I'm doing right now:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
----
-
-### 💥 About Me:
-
-- 🔒 Currently working on cybersecurity projects
-- 👾 Exploring AI + Hacking combo
-- 👨‍💻 Love coding Python when ideas strike
-- 🧠 Member of **Anonymous Cyber Shield** & **Down Community**
-- 🚀 Hacked 5+ websites in India. Two still under observation 👁️
-
----
-
-### 🚩 Signature:
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=DEATH+CYBER+ARMY+%7C+BD+UNDERGROUND+%7C+MR-TAN+%F0%9F%92%AA%F0%9F%92%BB" alt="DCA Branding" />
-</p>
-
----
-
-#### 🧨 Keep Learning. Keep Hacking. Stay Underground.
-
+```bash
+System:       Arch Linux / Ubuntu / Android
+Editor:       Neovim / VSCode
+Languages:    Python, Bash, HTML
+Tools:        Nmap, SQLmap, Ngrok, Metasploit, Termux
