@@ -14,11 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" /> </p>
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
-### 🎬 What I'm doing right now:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 - 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [Facebook](https://www.facebook.com/MrT4N.Official) and [Telegram](https://t.me/MrTan_official)
 - ⚡ Fun fact **I am funny😅**
 
@@ -61,7 +57,11 @@
 <!-- compact programming languages layout -->
 </div>
 <!--  End Stats Cards -->
+### 🎬 What I'm doing right now:
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 ---
 <!-- Begin Footer -->
 <!-- Icons Resources -->
