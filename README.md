@@ -4,14 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-Tan+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+MR-TAN+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-(__🐝MR-TAN🐝__)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm MR-TAN</h1>
 <h3 align="center">CEO & Founder of Death Cyber Army 
 <h3 align="center">A passionate Shell Executor from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 </h3>
-___🦋(MR-TAN)🦋___
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-___🦋(MR-TAN)🦋___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" /> </p>
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
@@ -99,5 +96,27 @@ ___🦋(MR-TAN)🦋___
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="SQL logo" title="MySQL" height="25" />
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-
+### `~# ./sysinfo`
+<table border="1">
+  <tr>
+    <th>Device</th>
+    <th>Operating System</th>
+    <th>Processor</th>
+  </tr>
+  <tr>
+    <td>Device 1</td>
+    <td>Windows 10 Pro</td>
+    <td>Intel Core i2</td>
+  </tr>
+  <tr>
+    <td>Device 2</td>
+    <td>Xubuntu 22.04</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Samsung Galaxy ***</td>
+    <td>Android 12, OneUI 4</td>
+    <td>Unisoc</td>
+  </tr>
+</table>
 <!-- Statistics -->
