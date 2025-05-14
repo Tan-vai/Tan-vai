@@ -46,11 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 ## 🔭Currently in love with: DEATH CYBER ARMY
-### 🎬 What I'm doing right now:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 
 
 
@@ -80,6 +75,11 @@
     </a>
 </div>
 <!-- End Footer -->
+### 🎬 What I'm doing right now:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 </h3>
 
