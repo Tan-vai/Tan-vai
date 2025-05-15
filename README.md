@@ -73,8 +73,8 @@
     <a href="https://mrtanofficial.blogspot.com/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
     </a>
-    <a href="https://mrtanvai@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    <a href="mailto:mr.tan.cyber@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
 <!-- End Footer -->
