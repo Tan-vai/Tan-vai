@@ -25,11 +25,6 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 - 📈 Dedicated to consistent daily coding streaks  
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" /> </p>
-<p>
-    <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
-
 - 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [Facebook](https://www.facebook.com/MrT4N.Official) and [Telegram](https://t.me/MrTan_official)
 - ⚡ Fun fact **I am funny😅**
 
@@ -39,6 +34,11 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 <a href="https://www.instagram.com/mrtan_0fficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@MrTan_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" /> </p>
+<p>
+    <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
+
+
 
 
 <h3 align="left">Support:</h3>
