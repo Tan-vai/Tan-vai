@@ -25,6 +25,24 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 - 📈 Dedicated to consistent daily coding streaks  
 
 ---
+## 🔭Currently in love with: DEATH CYBER ARMY
+
+
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center"> 
+<!-- compact programming languages layout -->
+</div>
+<!--  End Stats Cards -->
+### 🎬 What I'm doing right now:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 - 👨‍💻 All of my 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 & 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴 are available at [Facebook](https://www.facebook.com/MrT4N.Official) and [Telegram](https://t.me/MrTan_official)
 - ⚡ Fun fact **I am funny😅**
 
@@ -59,24 +77,7 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
-## 🔭Currently in love with: DEATH CYBER ARMY
 
-
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center"> 
-<!-- compact programming languages layout -->
-</div>
-<!--  End Stats Cards -->
-### 🎬 What I'm doing right now:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 ---
 <!-- Begin Footer -->
 <!-- Icons Resources -->
