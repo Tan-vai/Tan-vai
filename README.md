@@ -64,14 +64,14 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
   </a>
 </p>
 
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/mrtan_official"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mr Tan" /></a></p><br><br>
 
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
-</p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
