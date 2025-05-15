@@ -56,11 +56,6 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
 
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/mrtan_official"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mr Tan" /></a></p><br><br>
 ## ?? GitHub Analytics
 <p align="center">
   <a href="https://github.com/Tan-vai">
@@ -68,6 +63,11 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-vai&layout=compact&theme=radical"/>
   </a>
 </p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://buymeacoffee.com/mrtan_official"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mr Tan" /></a></p><br><br>
+
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
