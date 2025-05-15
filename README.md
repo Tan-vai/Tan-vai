@@ -8,9 +8,24 @@
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm MR-TAN</h1>
-<h3 align="center">CEO & Founder of Death Cyber Army 
-<h3 align="center">A passionate Shell Executor from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 </h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+### 🔥 Coder | Cybersecurity Enthusiast | Python Fanatic
+
+---
+
+## 🚀 About Me  
+I'm a passionate programmer from Bangladesh, specializing in Python and cybersecurity.  
+I lead the Death Cyber Army team and love crafting bots, hacking tools, and exploring new tech frontiers.
+
+---
+
+## 💡 Highlights  
+- 🐍 Fluent in Python, JavaScript & C++  
+- 🛡️ Cybersecurity researcher & ethical hacker  
+- 💻 Creator of Telegram downloader bots & automation tools  
+- 📈 Dedicated to consistent daily coding streaks  
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" /> </p>
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
