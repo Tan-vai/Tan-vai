@@ -48,16 +48,24 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
   <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
 </p>
 
-## 📊 GitHub Analytics
-<p align="center">
-  <a href="https://github.com/Tan-vai">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tan-vai&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-vai&layout=compact&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
-</p>
+### 📊 GitHub Analytics:
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tan-vai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-vai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-vai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF40&center=true&width=600&lines=Mr+Tan;IT'S+NOT+A+NAME;IT'S+A+BRAND+BROTHER)](https://git.io/typing-svg)
 
