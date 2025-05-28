@@ -60,9 +60,7 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
   <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan-vai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Tan-vai"><img title="Trophy" src="https://github-profile-trophy.vercel.app/?username=Tan-vai&theme=monokai"></a>
