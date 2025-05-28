@@ -57,10 +57,8 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 </p>
 
 <p align="center">
-  <img height="180em" src="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Tan-vai&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF40&center=true&width=600&lines=Mr+Tan;IT'S+NOT+A+NAME;IT'S+A+BRAND+BROTHER)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan-vai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
