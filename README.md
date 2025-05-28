@@ -55,11 +55,12 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-vai&layout=compact&theme=radical" />
   </a>
 </p>
+
 <p align="center">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF40&center=true&width=600&lines=Mr+Tan;IT'S+NOT+A+NAME;IT'S+A+BRAND+BROTHER)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan-vai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
@@ -111,4 +112,4 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-Tan+Here+%f0%9f%a4%99;IT'S+NOT+JUST+A+NAME+BRO+%f0%9f%a5%b1;IT'S+A+BRAND+%f0%9f%94%a5;Respect+MR-TAN+%f0%9f%a5%
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-Tan+Here+%f0%9f%a4%99;IT'S+NOT+JUST+A+NAME+BRO+%f0%9f%a5%b1;IT'S+A+BRAND+%f0%9f%94%a5;Respect+MR-TAN+%f0%9f%a5%ba)](https://git.io/typing-svg)
