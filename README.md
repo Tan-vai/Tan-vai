@@ -53,7 +53,6 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
  
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan-vai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-Tan-vai&label=MAHADI'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
 <center>
 <a href="https://github.com/Tan-vai"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Tan-vai&theme=monokai"></a>
 
