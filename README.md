@@ -48,15 +48,6 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=Mr+Tan;IT'S+NOT+A+NAME;IT'S+BRAND+BROTHER)](https://git.io/typing-svg)
- 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan-vai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-<center>
-<a href="https://github.com/Tan-vai"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Tan-vai&theme=monokai"></a>
-
-
 
 ## ?? GitHub Analytics
 <p align="center">
@@ -69,6 +60,12 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=Mr+Tan;IT'S+NOT+A+NAME;IT'S+BRAND+BROTHER)](https://git.io/typing-svg)
+ 
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan-vai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<center>
+<a href="https://github.com/Tan-vai"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Tan-vai&theme=monokai"></a>
 
 
 
