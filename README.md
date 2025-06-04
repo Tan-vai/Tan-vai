@@ -12,7 +12,7 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 ---
 
 ## 💡 Highlights
-- 🐍 Fluent in Python, JavaScript & C++  
+- 🐍 Fluent in Python
 - 🛡️ Cybersecurity researcher & ethical hacker  
 - 💻 Creator of Telegram downloader bots & automation tools  
 - 📈 Dedicated to consistent daily coding streaks
